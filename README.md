@@ -3,7 +3,7 @@ This is my repository for AoC 2021, solving the problems using **MATLAB R2021a**
 
 ## Day Completed
 * [x] 1
-* [ ] 2
+* [x] 2
 * [ ] 3
 * [ ] 4
 * [ ] 5
