@@ -27,7 +27,7 @@ opts = setvaropts(opts, "Direction", "WhitespaceRule", "preserve");
 opts = setvaropts(opts, "Direction", "EmptyFieldRule", "auto");
 
 % Import the data
-day2ainput = readtable("D:\Dokument\Programmering\adventofcode2021\day2\day2a_input.txt", opts);
+day2ainput = readtable("./day2a_input.txt", opts);
 
 %% Clear temporary variables
 clear opts
