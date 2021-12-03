@@ -4,7 +4,7 @@ This is my repository for AoC 2021, solving the problems using **MATLAB R2021a**
 ## Day Completed
 * [x] 1
 * [x] 2
-* [ ] 3
+* [x] 3
 * [ ] 4
 * [ ] 5
 * [ ] 6
